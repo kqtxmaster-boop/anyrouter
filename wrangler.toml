@@ -5,6 +5,9 @@ name = "anyrouter"
 main = "anyrouter.js"
 compatibility_date = "2024-01-01"
 
+[vars]
+ADMIN_PASSWORD = "zhelishihmt!@#A"
+
 # ============================================
 # 环境变量说明
 # ============================================
